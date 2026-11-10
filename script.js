@@ -16,7 +16,7 @@
 
   <div id="particles" aria-hidden="true"></div>
   <div id="toast" role="status" aria-live="polite"></div>
-  <audio id="bgMusic" src="Ka.mp3" loop preload="none"></audio>
+  <audio id="bgMusic" src="Kak1.mp3" loop preload="none"></audio>
 
   <!-- HALAMAN PEMBUKA -->
   <div id="opening" class="screen">
